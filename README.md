@@ -4,7 +4,7 @@ This project implements a **Finite State Machine (FSM)** on an FPGA to control t
 Motor speed is adjusted via pushbuttons, increasing or decreasing the duty cycle in 15% increments (0–90%).  
 The current speed setting is displayed on a **7-segment display**.
 
-### 🔧 Features
+### Project Details
 - 7 distinct speed states using **Moore one-hot encoding**
 - **PWM generation** for motor speed control
 - **Frequency divider** for timing base
