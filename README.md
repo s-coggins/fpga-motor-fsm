@@ -14,16 +14,5 @@ The current speed setting is displayed on a **7-segment display**.
 - Testbenches included for functional simulation
 - Simulated in **Modelsim**
 
-### 📂 Project Structure
-src/
-fsm.v
-pwm.v
-fd.v
-7seg.v
-motorcontrol.v # top module
-tb/
-fsm_tb.v
-fd_tb.v
-constraints/
-motorcontrol.qsf
+
 
