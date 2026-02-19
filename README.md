@@ -1,6 +1,6 @@
 # DC Motor Control FSM (FPGA Verilog)
 
-This project implements a **Finite State Machine (FSM)** on an FPGA to control the speed of a DC motor using **Pulse Width Modulation (PWM)** and a **Frequency Divider (FD)** module.  
+This project implements a **Finite State Machine (FSM)** on an MAX 10 FPGA (Terasic DE10-Lite board) to control the speed of a DC motor using **Pulse Width Modulation (PWM)** and a **Frequency Divider (FD)** module.  
 Motor speed is adjusted via pushbuttons, increasing or decreasing the duty cycle in 15% increments (0–90%).  
 The current speed setting is displayed on a **7-segment display**.
 
